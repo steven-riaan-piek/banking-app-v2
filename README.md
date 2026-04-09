@@ -30,7 +30,7 @@ What I Learned
 
 ---
 
-▶️ How to Run
+How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/steven-riaan-piek/banking-app-v2.git
